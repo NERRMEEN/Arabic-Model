@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-tensorflow
+gunicorn
+tensorflow-cpu==2.13.0
 numpy
 pydantic
 scikit-learn
